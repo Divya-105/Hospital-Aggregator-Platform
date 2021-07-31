@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  font-family: 'Uchen', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.testimonial-col {
+  /* flex-basis:44%;*/
+   border-radius:10px;
+   text-align:left;
+   background:#f9f8fa;
+   
+font-family: 'Titillium Web', sans-serif;
+
+ 
+   cursor:pointer;
+   display:flex;
+ }
+ 
+ .testimonial-col img{
+   
+   width:80%;
+   height:100%;
+   
+   margin-left:5px;
+   margin-right:5px;
+   margin-top: 50px;
+   border-radius:2px ;
+ }
+ 
+ .testimonial-col p{
+   text-align: left;
+   padding:0;
+ }
+ 
+ .testimonial-col h3{
+   margin-top:15px;
+   text-align:left;
+ }
+ 
+ .testimonial-col fa{
+   color:#f44336;
+ }
+
+ .aboutus{
+   text-align:justify;
+ }
+ .header{
+  min-height:100vh;
+    width:100%;
+    background-image:linear-gradient(rgba(145, 209, 26, 0.137),rgba(4,9,30,0.9)),url(https://th.bing.com/th/id/OIP.DrZ46WcuUKCvADp7i2tipAHaE7?w=262&h=180&c=7&o=5&dpr=1.25&pid=1.7);
+    background-position:centre;
+    background-size:cover;
+    position:relative;
+  }
+  .text-box{
+    width:90%;
+    color:#fff;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    text-align:center;
+    
+  }
+  
+  .text-box h1{
+    font-size:50px;
+    color:black
+  }
+  
+  .text-box p{
+    margin:10px 0 40px;
+    font-size:17px;
+    color:#fff;
+  }
