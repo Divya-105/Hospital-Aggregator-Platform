@@ -1,0 +1,11 @@
+.search-hospital{
+    position: relative;
+    width: 60%;
+    padding-left: 50px;
+}
+.search-hospital-list-group{
+    position: absolute;
+    width :100%;
+    font-size : 14px;
+}
+
