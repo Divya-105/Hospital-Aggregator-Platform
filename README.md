@@ -1,4 +1,4 @@
-# Hospital Aggregator Platform web application
+# Hospital Aggregator Platform Web Application
 Scope of Work: Hospital Aggregator Platform
 
 Statement: 
