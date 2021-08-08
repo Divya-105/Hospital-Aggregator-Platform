@@ -20,6 +20,6 @@ Scope:
 Technology Stack: ReactJS, SpringBoot, MongoDB
 
 Frontend : hospital-aggregator [ Visual studio ]
-use ### `npm install` then ### `npm start` when running for first time.
+use  `npm install` then  `npm start` when running for first time.
 
 Backend : backeend_hospital [ Spring tool suite 4.0 , Robo3T ]
